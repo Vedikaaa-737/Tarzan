@@ -39,4 +39,4 @@
 - **Price**: 1000  
 
 ## 3.2 Hosting [Per Month]  
-- **Price**: 300 * 2 = 600  
+- **Price**: 300 * 2 = 800  
